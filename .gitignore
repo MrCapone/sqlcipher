@@ -10,6 +10,13 @@ xcuserdata/*
 /.libs
 /.target_source
 /config.h
+/fts5.c
+/fts5.h
+/fts5parse.c
+/fts5parse.h
+/fts5parse.out
+/fts5parse.y
+/sqlite3session.h
 /config.log
 /config.status
 /keywordhash.h
